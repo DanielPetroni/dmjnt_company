@@ -2,14 +2,14 @@
 ### Features
 
 - Exibição em tempo real do saldo do usuário.
-- Criação de QRS-CODES para um possivel pagamento na catraca.
-- Listagem de todos QRS-CODES ativos.
+- Criação de QR-CODES para um possivel pagamento na catraca.
+- Listagem de todos QR-CODES ativos.
 - Deletar QR-CODE e reembolso do saldo.
 - Exibição de noticias e novidades da empresa.
 
 ### DevTools
 - Para exibição de algumas imagens usei o package flutter_svg.
-- Para exibição dos QRS-CODES usei o package qr_flutter.
+- Para exibição dos QR-CODES usei o package qr_flutter.
 
 # Screenshots
 ![HomePage](https://github.com/DanielPetroni/dmjnt_company/blob/main/screenshots/Splash-Screen.png)
