@@ -1,0 +1,9 @@
+.dart_tool
+.idea
+android
+build
+ios
+.metadata
+.packages
+dmjnt_company.iml
+pubspec.lock
