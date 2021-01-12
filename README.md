@@ -11,3 +11,17 @@
 - Para exibição de algumas imagens usei o package flutter_svg.
 - Para exibição dos QRS-CODES usei o package qr_flutter.
 
+# Screenshots
+![HomePage](https://github.com/DanielPetroni/dmjnt_company/blob/main/screenshots/Splash-Screen.png)
+
+![HomePage](https://github.com/DanielPetroni/dmjnt_company/blob/main/screenshots/Login-Screen.png)
+![HomePage](https://github.com/DanielPetroni/dmjnt_company/blob/main/screenshots/Home-Screen.png)
+
+![HomePage](https://github.com/DanielPetroni/dmjnt_company/blob/main/screenshots/ListQR-Screen.png)
+![HomePage](https://github.com/DanielPetroni/dmjnt_company/blob/main/screenshots/QR-Usado.png)
+
+![HomePage](https://github.com/DanielPetroni/dmjnt_company/blob/main/screenshots/QR-Criado.png)
+![HomePage](https://github.com/DanielPetroni/dmjnt_company/blob/main/screenshots/QR-Deletado.png)
+
+![HomePage](https://github.com/DanielPetroni/dmjnt_company/blob/main/screenshots/MeusDados-Screen.png)
+![HomePage](https://github.com/DanielPetroni/dmjnt_company/blob/main/screenshots/QR-Screen.png)
