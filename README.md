@@ -15,6 +15,8 @@
 ![HomePage](https://github.com/DanielPetroni/dmjnt_company/blob/main/screenshots/Splash-Screen.png)
 
 ![HomePage](https://github.com/DanielPetroni/dmjnt_company/blob/main/screenshots/Login-Screen.png)
+
+![HomePage](https://github.com/DanielPetroni/dmjnt_company/blob/main/screenshots/Home-ScreenSaldo.png)
 ![HomePage](https://github.com/DanielPetroni/dmjnt_company/blob/main/screenshots/Home-Screen.png)
 
 ![HomePage](https://github.com/DanielPetroni/dmjnt_company/blob/main/screenshots/ListQR-Screen.png)
