@@ -122,7 +122,8 @@ class _HomeState extends State<Homepage> {
                 GestureDetector(
                   onTap: () => QrController().create(
                     id: widget.user.id,
-                    onSucess: (value) {
+                    onSucess: (valueCreate) {
+                       print(valueCreate);
                       UserController().getBalance(
                           id: widget.user.id,
                           onSucess: (value) {
@@ -138,7 +139,8 @@ class _HomeState extends State<Homepage> {
                                             height: size.height * .2,
                                           ),
                                           SizedBox(height: 10),
-                                          Text('QR code criado!')
+                                         
+                                          Text(valueCreate["message"])
                                         ]),
                                         actions: <Widget>[
                                           FlatButton(

@@ -83,7 +83,7 @@ class _FeedQrState extends State<FeedQr> {
                                                       height: size.height * .2,
                                                     ),
                                                     SizedBox(height: 10),
-                                                    Text('Deletado com sucesso!'),
+                                                    Text(value),
                                                   ],
                                                 ),
                                                 actions: <Widget>[
